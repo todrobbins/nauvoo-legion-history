@@ -24,22 +24,22 @@
 * [William H. Perkes][20], secretary
 
 [1]: http://news.google.com/newspapers?nid=336&dat=18990408&id=-JkEAAAAIBAJ&sjid=bzADAAAAIBAJ&pg=1934,1170267
-[2]: Ibid.
+[2]: http://news.google.com/newspapers?nid=336&dat=18990408&id=-JkEAAAAIBAJ&sjid=bzADAAAAIBAJ&pg=1934,1170267
 [3]: https://en.wikipedia.org/wiki/Charles_Henry_Wilcken
 [4]: http://news.google.com/newspapers?nid=336&dat=18990408&id=-JkEAAAAIBAJ&sjid=bzADAAAAIBAJ&pg=1934,1170267
-[5]: Ibid.
-[6]: Ibid.
-[7]: Ibid.
-[8]: Ibid.
-[9]: Ibid.
-[10]: Ibid.
-[11]: Ibid.
+[5]: http://news.google.com/newspapers?nid=336&dat=18990408&id=-JkEAAAAIBAJ&sjid=bzADAAAAIBAJ&pg=1934,1170267
+[6]: http://news.google.com/newspapers?nid=336&dat=18990408&id=-JkEAAAAIBAJ&sjid=bzADAAAAIBAJ&pg=1934,1170267
+[7]: http://news.google.com/newspapers?nid=336&dat=18990408&id=-JkEAAAAIBAJ&sjid=bzADAAAAIBAJ&pg=1934,1170267
+[8]: http://news.google.com/newspapers?nid=336&dat=18990408&id=-JkEAAAAIBAJ&sjid=bzADAAAAIBAJ&pg=1934,1170267
+[9]: http://news.google.com/newspapers?nid=336&dat=18990408&id=-JkEAAAAIBAJ&sjid=bzADAAAAIBAJ&pg=1934,1170267
+[10]: http://news.google.com/newspapers?nid=336&dat=18990408&id=-JkEAAAAIBAJ&sjid=bzADAAAAIBAJ&pg=1934,1170267
+[11]: http://news.google.com/newspapers?nid=336&dat=18990408&id=-JkEAAAAIBAJ&sjid=bzADAAAAIBAJ&pg=1934,1170267
 [12]: https://en.wikipedia.org/wiki/John_R._Winder
 [13]: http://news.google.com/newspapers?nid=336&dat=18990408&id=-JkEAAAAIBAJ&sjid=bzADAAAAIBAJ&pg=1934,1170267
-[14]: Ibid.
-[15]: Ibid.
-[16]: Ibid.
-[17]: Ibid.
-[18]: Ibid.
-[19]: Ibid.
-[20]: Ibid.
+[14]: http://news.google.com/newspapers?nid=336&dat=18990408&id=-JkEAAAAIBAJ&sjid=bzADAAAAIBAJ&pg=1934,1170267
+[15]: http://news.google.com/newspapers?nid=336&dat=18990408&id=-JkEAAAAIBAJ&sjid=bzADAAAAIBAJ&pg=1934,1170267
+[16]: http://news.google.com/newspapers?nid=336&dat=18990408&id=-JkEAAAAIBAJ&sjid=bzADAAAAIBAJ&pg=1934,1170267
+[17]: http://news.google.com/newspapers?nid=336&dat=18990408&id=-JkEAAAAIBAJ&sjid=bzADAAAAIBAJ&pg=1934,1170267
+[18]: http://news.google.com/newspapers?nid=336&dat=18990408&id=-JkEAAAAIBAJ&sjid=bzADAAAAIBAJ&pg=1934,1170267
+[19]: http://news.google.com/newspapers?nid=336&dat=18990408&id=-JkEAAAAIBAJ&sjid=bzADAAAAIBAJ&pg=1934,1170267
+[20]: http://news.google.com/newspapers?nid=336&dat=18990408&id=-JkEAAAAIBAJ&sjid=bzADAAAAIBAJ&pg=1934,1170267
