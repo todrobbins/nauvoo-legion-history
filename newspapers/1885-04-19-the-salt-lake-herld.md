@@ -1,0 +1,1 @@
+The care of Andrew J. Taysum, plasterer, appears in THE HERALD, Mr. Taysum is a pioneer artist in his line, and his long experience in this city is sufficient guarantee that jobs entrusted to him, in plain and ornamental plastering, will be executed to the satisfaction of his patrons. Read his card.

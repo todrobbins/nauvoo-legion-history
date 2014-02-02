@@ -2,7 +2,7 @@
 
 ##People
 
-* [A. J. Taysum][1], vice president
+* [Andrew J. Taysum][1], vice president
 * [Brigham Young][2], brigadier general
 * [Charles Henry Wilcken][3]
 * [Dan Weggeland][4], director
