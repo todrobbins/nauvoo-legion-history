@@ -23,12 +23,12 @@
 * [William Colton][19]
 * [William H. Perkes][20], secretary
 
-[1]: http://news.google.com/newspapers?nid=336&dat=18990408&id=-JkEAAAAIBAJ&sjid=bzADAAAAIBAJ&pg=1934,1170267
-[2]: http://news.google.com/newspapers?nid=336&dat=18990408&id=-JkEAAAAIBAJ&sjid=bzADAAAAIBAJ&pg=1934,1170267
+[1]: http://mormonbiography.org/index.php?title=Andrew_J._Taysum_%281827-1902%29
+[2]: http://mormonbiography.org/index.php?title=Brigham_Young_%281801-1877%29
 [3]: https://en.wikipedia.org/wiki/Charles_Henry_Wilcken
 [4]: http://news.google.com/newspapers?nid=336&dat=18990408&id=-JkEAAAAIBAJ&sjid=bzADAAAAIBAJ&pg=1934,1170267
 [5]: http://news.google.com/newspapers?nid=336&dat=18990408&id=-JkEAAAAIBAJ&sjid=bzADAAAAIBAJ&pg=1934,1170267
-[6]: http://news.google.com/newspapers?nid=336&dat=18990408&id=-JkEAAAAIBAJ&sjid=bzADAAAAIBAJ&pg=1934,1170267
+[6]: http://mormonbiography.org/index.php?title=Franklin_Dewey_Richards_%281821-1899%29
 [7]: http://news.google.com/newspapers?nid=336&dat=18990408&id=-JkEAAAAIBAJ&sjid=bzADAAAAIBAJ&pg=1934,1170267
 [8]: http://news.google.com/newspapers?nid=336&dat=18990408&id=-JkEAAAAIBAJ&sjid=bzADAAAAIBAJ&pg=1934,1170267
 [9]: http://news.google.com/newspapers?nid=336&dat=18990408&id=-JkEAAAAIBAJ&sjid=bzADAAAAIBAJ&pg=1934,1170267
