@@ -2,7 +2,7 @@
 
 ##People
 
-* [Andrew J. Taysum][1], vice president
+* [Andrew James Taysum][1], vice president
 * [Brigham Young][2], brigadier general
 * [Charles Henry Wilcken][3]
 * [Dan Weggeland][4], director
@@ -23,7 +23,7 @@
 * [William Colton][19]
 * [William H. Perkes][20], secretary
 
-[1]: http://mormonbiography.org/index.php?title=Andrew_J._Taysum_%281827-1902%29
+[1]: http://mormonbiography.org/index.php?title=Andrew_James_Taysum_(1826-1902)
 [2]: http://mormonbiography.org/index.php?title=Brigham_Young_%281801-1877%29
 [3]: https://en.wikipedia.org/wiki/Charles_Henry_Wilcken
 [4]: http://news.google.com/newspapers?nid=336&dat=18990408&id=-JkEAAAAIBAJ&sjid=bzADAAAAIBAJ&pg=1934,1170267
